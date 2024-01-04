@@ -1,6 +1,5 @@
 # again
 for testing
 ---
-**bold**
----
+**bold**---
 `Code`
